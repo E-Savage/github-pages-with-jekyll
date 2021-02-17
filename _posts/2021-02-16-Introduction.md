@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
 date: 2021-02-16 
-
 ---
 
 When I first got into coding I was actually learning HTML in high school, making basic
